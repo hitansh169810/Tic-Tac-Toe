@@ -1,0 +1,21 @@
+td{
+    width: 100px;
+    height: 100px;
+    background: white;
+    font-size:40px;
+    text-align:center;
+    border-radius: 10px;
+    border-style: double
+}
+table{
+    margin: 20px auto;
+    border-radius:10px;
+    border-style: dotted;
+    border-color:white;
+}
+body{
+
+            /* background: linear-gradient(45deg,red, yellow, blue, green); */
+            /* background: linear-gradient(orange,rgba(255,255,255,0.5),green); */
+            background:radial-gradient(ellipse at center, rgba(255,45,244,1) 0%, rgba(0,0,0,1) 100%); 
+}
