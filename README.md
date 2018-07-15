@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-A simple Tic tac toe game using simple javascript, HTMl and CSS
+A simple Tic tac toe game using vanilla javascript, HTMl and CSS
